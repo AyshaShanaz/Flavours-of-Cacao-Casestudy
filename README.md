@@ -44,4 +44,4 @@ Cocoa percentage is an imperfect proxy for flavor complexity.
 
 How to View
 Open: flavours_of_cacao.html
-If you want, I can also re-save these as plain .txt files or PDFs and provide fresh download links. Or I can push them to your repo via a PR if you share a branch name and give me the exact filenames you want.
+
